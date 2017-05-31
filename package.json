@@ -1,0 +1,41 @@
+{
+  "name": "cordova-qdc-wxpay",
+  "version": "1.0.0",
+  "description": "WeixinPay",
+  "cordova": {
+    "id": "com.qdc.plugins.wxpay",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrwutong/cordova-qdc-wxpay"
+  },
+  "bugs": {
+    "url": "https://github.com/mrwutong/cordova-qdc-wxpay/issues"
+  },
+  "keywords": [
+    "cordova",
+    "weixin",
+    "wxpay",
+    "weixin-pay",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "scripts": {
+  },
+  "author": "mrwutong",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "devDependencies": {
+  }
+}
+
